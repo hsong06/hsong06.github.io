@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Thanks for visiting my personal websites"
+title: "Haohong Song"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Haohong Song.
+This is Haohong Song. Thanks for visiting my personal websites
 
 A data-driven personal website
 ======
