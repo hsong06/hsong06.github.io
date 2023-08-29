@@ -11,30 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Polymer Chemistry @ Hefei,China, University of Science and Technology of China, 2020
+* M.E. in Materials Science Engineering @ Riverside,US, University of California, Riverside, 2022
+* Ph.D in Interdisciplinary Materials Science @ Nashville, Vanderbilt University, 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+*2018.6-2020.6
+·	Advisor: Prof. Hangxun Xu(USTC)(http://staff.ustc.edu.cn/~hxu/ )
+·	The synthesis of highly efficient  electro / photocatalyst  used in water splitting and reduction of carbon dioxide.
+*2019.7.1-2019.9.10 
+·	Advisor: Prof. Qing Cao (UIUC )(https://chemistry.illinois.edu/qingcao2)
+·	 The neuromorphic memory devices with low-dimensional nanomaterials as contact electrodes for neuromophic computing.
+*2020. 9-NOW
+·	Advisor: Prof. De-en Jiang (UCR-Vanderbilt University)(http://www.jiang-lab.net/)
+·	Computational Chemistry, Materials Science, Catalysis Science
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* DFT
+* MD
 
 Publications
 ======
@@ -56,4 +53,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 
