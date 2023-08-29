@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * B.E. in Polymer Chemistry @ Hefei,China, University of Science and Technology of China, 2020
-* M.E. in Materials Science Engineering @ Riverside,US, University of California, Riverside, 2022
-* Ph.D in Interdisciplinary Materials Science @ Nashville, Vanderbilt University, 2025 (expected)
+* M.E. in Materials Science Engineering @ Riverside, US , University of California, Riverside, 2022
+* Ph.D in Interdisciplinary Materials Science @ Nashville, US , Vanderbilt University, 2025 (expected)
 
 Work experience
 ======
@@ -31,8 +31,9 @@ Work experience
 Skills
 ======
 * DFT
-* MD
-
+* Molecular dynamics simulation
+* VASP
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
