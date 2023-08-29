@@ -18,12 +18,17 @@ Education
 Work experience
 ======
 *2018.6-2020.6
+
 ·	Advisor: Prof. Hangxun Xu(USTC)(http://staff.ustc.edu.cn/~hxu/ )
 ·	The synthesis of highly efficient  electro / photocatalyst  used in water splitting and reduction of carbon dioxide.
+
 *2019.7.1-2019.9.10 
+
 ·	Advisor: Prof. Qing Cao (UIUC )(https://chemistry.illinois.edu/qingcao2)
 ·	 The neuromorphic memory devices with low-dimensional nanomaterials as contact electrodes for neuromophic computing.
+
 *2020. 9-NOW
+
 ·	Advisor: Prof. De-en Jiang (UCR-Vanderbilt University)(http://www.jiang-lab.net/)
 ·	Computational Chemistry, Materials Science, Catalysis Science
 
