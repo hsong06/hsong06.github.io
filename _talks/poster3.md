@@ -2,7 +2,7 @@
 title: "Poster Presentation at Southeastern Catalysis Society (SECS)"
 collection: talks
 type: "Poster Presentation"
-permalink: 
+permalink: talks/2023-02-28-poster
 venue: "Southeastern Catalysis Society (SECS) "
 date: 2023-02-28
 location: "Tuscaloosa, Alabama"
