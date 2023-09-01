@@ -5,7 +5,7 @@ type: "Poster Presentation"
 permalink: 
 venue: "Vanderbilt University, VINSE "
 date: 2022-11-07
-location: "Nashville,TN"
+location: "Nashville,Tennessee"
 ---
 
 First principles insights into stability of defected MXenes in water
