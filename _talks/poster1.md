@@ -2,7 +2,7 @@
 title: "Poster Presentation at NanoDay event"
 collection: talks
 type: "Poster Presentation"
-permalink: 
+permalink: talks/2022-11-07-poster
 venue: "Vanderbilt University, VINSE "
 date: 2022-11-07
 location: "Nashville,Tennessee"
