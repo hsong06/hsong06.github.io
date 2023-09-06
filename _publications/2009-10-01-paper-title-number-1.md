@@ -10,6 +10,6 @@ citation: 'Song, H.; Jiang, D.-e., First principles insights into stability of d
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here]([http://academicpages.github.io/files/paper1.pdf](https://pubs.rsc.org/en/content/articlepdf/2023/nr/d3nr02538a))
+[Download paper here](https://github.com/hsong06/hsong06.github.io/blob/master/files/Haohong_MXene.pdf)
 
 Recommended citation: Song, H.; Jiang, D.-e., First principles insights into stability of defected MXenes in water. Nanoscale 2023
