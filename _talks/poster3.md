@@ -1,5 +1,6 @@
 ---
-title: "Poster Presentation at Southeastern Catalysis Society (SECS)"
+title: "Active Site of Pt  Single-Atom Supported on Gd-Doped Ceria with Improved Low Temperature Performance for CO Oxidation - DFT insights
+"
 collection: talks
 type: "Poster Presentation"
 permalink: talks/2023-02-28-poster
