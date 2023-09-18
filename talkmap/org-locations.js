@@ -5,6 +5,11 @@ var addressPoints = [
     -86.7742984
   ],
   [
+    "Oak Ridge, TN",
+    36.0103562,
+    -84.2696449
+  ],
+  [
     "Tuscaloosa, Alabama",
     33.2095614,
     -87.5675258
