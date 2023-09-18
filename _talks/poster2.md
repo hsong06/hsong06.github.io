@@ -1,5 +1,5 @@
 ---
-title: "Poster Presentation at The 2nd International Conference at Drexel University"
+title: "First principles insights into stability of defected MXenes in water"
 collection: talks
 type: "Poster Presentation"
 permalink: talks/2022-08-01-poster
