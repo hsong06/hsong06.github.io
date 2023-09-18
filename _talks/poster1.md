@@ -1,5 +1,5 @@
 ---
-title: "Poster Presentation at NanoDay event"
+title: "First principles insights into stability of defected MXenes in water"
 collection: talks
 type: "Poster Presentation"
 permalink: talks/2022-11-07-poster
