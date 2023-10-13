@@ -6,10 +6,12 @@ excerpt: 'First principles molecular dynamics reveals how different types of def
 date: 2023-09-04
 venue: 'Nanoscale'
 paperurl: 'https://pubs.rsc.org/en/content/articlepdf/2023/nr/d3nr02538a'
-citation: 'Song, H.; Jiang, D.-e., First principles insights into stability of defected MXenes in water. Nanoscale 2023.'
+citation: 'Song, H.; Jiang, D.-e., First principles insights into stability of defected MXenes in water. First principles insights into stability of defected
+MXenes in water.'
 ---
 
 
 [Download paper here](/files/Haohong_MXene.pdf)
 
-Recommended citation: Song, H.; Jiang, D.-e., First principles insights into stability of defected MXenes in water. Nanoscale 2023
+Recommended citation: Song, H.; Jiang, D.-e., First principles insights into stability of defected MXenes in water. First principles insights into stability of defected
+MXenes in water
