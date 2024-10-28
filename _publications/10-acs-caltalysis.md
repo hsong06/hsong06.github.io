@@ -1,7 +1,7 @@
 ---
 title: "Active Palladium Structures on Ceria Obtained by Tuning Pd–Pd Distance for Efficient Methane Combustion"
 collection: publications
-permalink: /publication/2023-09-04-paper-title-number-1
+permalink: /publication/10-acs-caltalysis.md
 excerpt: 'Active Palladium Structures on Ceria Obtained by Tuning Pd–Pd Distance for Efficient Methane Combustion'
 date: 2024-10-23
 venue: 'ACS Catalysis'
