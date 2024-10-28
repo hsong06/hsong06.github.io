@@ -10,6 +10,6 @@ citation: 'Yang, W.#;  Song, H.#;  Zhang, L.;  Zhang, J.;  Polo-Garzon, F.;  Wan
 ---
 
 
-[Download paper here](/files/Haohong_MXene.pdf)
+[Download paper here](/files/co1-acsc.pdf)
 
 Recommended citation: Yang, W.#;  Song, H.#;  Zhang, L.;  Zhang, J.;  Polo-Garzon, F.;  Wang, H.;  Meyer, H.;  Jiang, D.-e.;  Wu, Z.; Li, Y., Active Palladium Structures on Ceria Obtained by Tuning Pd–Pd Distance for Efficient Methane Combustion. ACS Catalysis 2024, 16459-16468.
