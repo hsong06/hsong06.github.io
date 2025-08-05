@@ -13,7 +13,7 @@ Education
 ======
 * B.E. in Polymer Chemistry @ Hefei, Anhui, China, University of Science and Technology of China, 2020
 * M.E. in Materials Science Engineering @ Riverside, CA, US , University of California, Riverside, 2022
-* Ph.D in Interdisciplinary Materials Science @ Nashville, TN, US , Vanderbilt University, 2025 (expected)
+* Ph.D in Interdisciplinary Materials Science @ Nashville, TN, US , Vanderbilt University, 2025 
 
 Work experience
 ======
@@ -27,7 +27,7 @@ Work experience
 ·	Advisor: Prof. Qing Cao (UIUC )(https://chemistry.illinois.edu/qingcao2)
 ·	 The neuromorphic memory devices with low-dimensional nanomaterials as contact electrodes for neuromophic computing.
 
-*2020. 9 - NOW
+*2020. 9 - 2025.8
 
 ·	Advisor: Prof. De-en Jiang (UCRiverside --> Vanderbilt University)(http://www.jiang-lab.net/)
 ·	Computational Chemistry, Materials Science, Catalysis Science
@@ -38,6 +38,7 @@ Skills
 * DFT
 * Molecular dynamics simulation
 * VASP
+* Machine Learning
   
 Publications
 ======
