@@ -1,5 +1,5 @@
 ---
-title: 'Poppy'
+title: 'PhD'
 date: 2025-08-30
 permalink: /posts/2025/09/Graduation/
 tags:
