@@ -1,6 +1,6 @@
 ---
 title: 'PhD'
-date: 2025-08-30
+date: 2025-09-01
 permalink: /posts/2025/09/Graduation/
 tags:
   - cool posts
