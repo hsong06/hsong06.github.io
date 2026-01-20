@@ -36,9 +36,11 @@ Work experience
 Skills
 ======
 * DFT
-* Molecular dynamics simulation
+* Molecular dynamics simulation(Interfaces,stabilities,reactions)
 * VASP
 * Machine Learning
+* MLFF
+* Battery simulations
   
 Publications
 ======
