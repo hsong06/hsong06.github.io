@@ -10,11 +10,7 @@ location: "Riverside, CA"
 
 Chem 01C lab for undergraduated student 
 
-Heading 1
+GENERAL CHEMSTRY
 ======
 
-Heading 2
-======
 
-Heading 3
-======
